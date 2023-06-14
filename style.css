@@ -1,0 +1,27 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: #e2e2e2;
+}
+
+.cl-01{
+    width: 250px;
+    height: 250px;
+    position: absolute;
+    z-index: 0;
+    background: rgb(65, 105, 225);
+    border-radius: 50%;
+    left: 550px;
+    top: 200px;
+}
+
+.cl-02{
+    width: 120px;
+    height: 120px;
+    position: absolute;
+    z-index: 1;
+    background: rgb(98,189,95);
+    border-radius: 50%;
+    left: 815px;
+    top: 190px;
+}
