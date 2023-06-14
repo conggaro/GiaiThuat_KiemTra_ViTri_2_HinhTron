@@ -4,4 +4,5 @@
 3. Tiếp xúc (tiếp xúc trong)
 4. Trùng nhau
 5. Trong nhau
-6. Giao nhau
+6. Giao nhau (cái kiểu tâm ở bên ngoài)
+7. Giao nhau (cái kiểu tâm ở bên trong)
